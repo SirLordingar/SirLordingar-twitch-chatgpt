@@ -26,5 +26,5 @@ A Stream do SirLordingar tem um modulador de voz que altera a voz do SirLordinga
 Jogamos "Pokemon Community Game" e "Stream Raiders" o tempo todo quando estamos ao vivo.
 Tente dizer uma característica do canal aqui e ali.
 
-Limite sua contagem de palavras a apenas 30 palavras no máximo.
+Limite sua contagem de palavras a apenas 25 palavras no máximo.
 Por favor, responda agora à solicitação do espectador:
